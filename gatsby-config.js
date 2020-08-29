@@ -9,6 +9,7 @@ module.exports = {
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {},
   },
+  pathPrefix: `/blueskiy-blog`,
   plugins: [
     {
       resolve: `gatsby-plugin-sass`,
