@@ -9,8 +9,6 @@ body {
 .home-article {
   opacity: 0.9;
 
-  backface-visibility: hidden;
-
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -20,12 +18,9 @@ body {
   margin-bottom: 0.6rem;
 
   border-radius: 8px;
-
-  background-position: left top;
-
   background-color: #0059ff2c;
 
-  transition: all 0.2s ease;
+  transition: all 0.23s ease;
 
   header {
     text-align: center;
@@ -33,30 +28,31 @@ body {
 
   h3 {
     margin-top: 0;
+    color: #161620d3;
     font-family: "Roboto";
-
-    a {
-      color: #161620d3;
-    }
   }
 
   section p {
     margin-bottom: 0;
   }
 
-  &:hover {
-    opacity: 1;
-    cursor: pointer;
-    background: #9bd2ffb4;
-    transform: translateY(-3px);
-
-    box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034),
-      0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06),
-      0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086),
-      0 100px 80px rgba(0, 0, 0, 0.12);
-  }
-
-  &:hover a {
+  &:hover h3 {
     color: #313142;
   }
+}
+
+.article-wrapper:hover .home-article {
+  opacity: 0.6;
+}
+
+.article-wrapper .home-article:hover {
+  opacity: 1;
+  cursor: pointer;
+  background: #9bd2ffb4;
+  transform: translateY(-3px);
+
+  box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12);
 }
