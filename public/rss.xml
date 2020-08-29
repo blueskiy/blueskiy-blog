@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[O Dev dos Magros]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsby-starter-blog-demo.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 29 Aug 2020 15:44:59 GMT</lastBuildDate><item><title><![CDATA[Como Programar uma Panela de Arroz]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/como-programar-uma-panela-de-arroz/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/como-programar-uma-panela-de-arroz/</guid><pubDate>Wed, 01 Jul 2020 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[O Dev dos Magros]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsby-starter-blog-demo.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 29 Aug 2020 16:48:53 GMT</lastBuildDate><item><title><![CDATA[Como Programar uma Panela de Arroz]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/como-programar-uma-panela-de-arroz/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/como-programar-uma-panela-de-arroz/</guid><pubDate>Wed, 01 Jul 2020 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
 &lt;p&gt;I’m sure I’ll write a lot more interesting things in the future.&lt;/p&gt;
 &lt;p&gt;Oh, and here’s a great quote from this Wikipedia on
 &lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
@@ -17,7 +17,7 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/e77ddf3ba83a16a9e15168da905f2c98/d7854/alpaca.jpg&quot;
+    href=&quot;/blueskiy-blog/static/e77ddf3ba83a16a9e15168da905f2c98/d7854/alpaca.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -30,10 +30,10 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Chinese Salty Egg&quot;
         title=&quot;Chinese Salty Egg&quot;
-        src=&quot;/static/e77ddf3ba83a16a9e15168da905f2c98/d7854/alpaca.jpg&quot;
-        srcset=&quot;/static/e77ddf3ba83a16a9e15168da905f2c98/a80bd/alpaca.jpg 148w,
-/static/e77ddf3ba83a16a9e15168da905f2c98/1c91a/alpaca.jpg 295w,
-/static/e77ddf3ba83a16a9e15168da905f2c98/d7854/alpaca.jpg 550w&quot;
+        src=&quot;/blueskiy-blog/static/e77ddf3ba83a16a9e15168da905f2c98/d7854/alpaca.jpg&quot;
+        srcset=&quot;/blueskiy-blog/static/e77ddf3ba83a16a9e15168da905f2c98/a80bd/alpaca.jpg 148w,
+/blueskiy-blog/static/e77ddf3ba83a16a9e15168da905f2c98/1c91a/alpaca.jpg 295w,
+/blueskiy-blog/static/e77ddf3ba83a16a9e15168da905f2c98/d7854/alpaca.jpg 550w&quot;
         sizes=&quot;(max-width: 550px) 100vw, 550px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -58,7 +58,7 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/e77ddf3ba83a16a9e15168da905f2c98/d7854/alpaca.jpg&quot;
+    href=&quot;/blueskiy-blog/static/e77ddf3ba83a16a9e15168da905f2c98/d7854/alpaca.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -71,10 +71,10 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Chinese Salty Egg&quot;
         title=&quot;Chinese Salty Egg&quot;
-        src=&quot;/static/e77ddf3ba83a16a9e15168da905f2c98/d7854/alpaca.jpg&quot;
-        srcset=&quot;/static/e77ddf3ba83a16a9e15168da905f2c98/a80bd/alpaca.jpg 148w,
-/static/e77ddf3ba83a16a9e15168da905f2c98/1c91a/alpaca.jpg 295w,
-/static/e77ddf3ba83a16a9e15168da905f2c98/d7854/alpaca.jpg 550w&quot;
+        src=&quot;/blueskiy-blog/static/e77ddf3ba83a16a9e15168da905f2c98/d7854/alpaca.jpg&quot;
+        srcset=&quot;/blueskiy-blog/static/e77ddf3ba83a16a9e15168da905f2c98/a80bd/alpaca.jpg 148w,
+/blueskiy-blog/static/e77ddf3ba83a16a9e15168da905f2c98/1c91a/alpaca.jpg 295w,
+/blueskiy-blog/static/e77ddf3ba83a16a9e15168da905f2c98/d7854/alpaca.jpg 550w&quot;
         sizes=&quot;(max-width: 550px) 100vw, 550px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -99,7 +99,7 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/e77ddf3ba83a16a9e15168da905f2c98/d7854/alpaca.jpg&quot;
+    href=&quot;/blueskiy-blog/static/e77ddf3ba83a16a9e15168da905f2c98/d7854/alpaca.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -112,10 +112,10 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Chinese Salty Egg&quot;
         title=&quot;Chinese Salty Egg&quot;
-        src=&quot;/static/e77ddf3ba83a16a9e15168da905f2c98/d7854/alpaca.jpg&quot;
-        srcset=&quot;/static/e77ddf3ba83a16a9e15168da905f2c98/a80bd/alpaca.jpg 148w,
-/static/e77ddf3ba83a16a9e15168da905f2c98/1c91a/alpaca.jpg 295w,
-/static/e77ddf3ba83a16a9e15168da905f2c98/d7854/alpaca.jpg 550w&quot;
+        src=&quot;/blueskiy-blog/static/e77ddf3ba83a16a9e15168da905f2c98/d7854/alpaca.jpg&quot;
+        srcset=&quot;/blueskiy-blog/static/e77ddf3ba83a16a9e15168da905f2c98/a80bd/alpaca.jpg 148w,
+/blueskiy-blog/static/e77ddf3ba83a16a9e15168da905f2c98/1c91a/alpaca.jpg 295w,
+/blueskiy-blog/static/e77ddf3ba83a16a9e15168da905f2c98/d7854/alpaca.jpg 550w&quot;
         sizes=&quot;(max-width: 550px) 100vw, 550px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
