@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[O Dev dos Magros]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsby-starter-blog-demo.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 03 Sep 2020 12:27:32 GMT</lastBuildDate><item><title><![CDATA[A Lealdade dos Fracos]]></title><description><![CDATA[Teste. Tá foda. I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a great quote from this Wikipedia on  salted…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/hello-world copy/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/hello-world copy/</guid><pubDate>Fri, 19 Jun 2020 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Teste. Tá foda.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[O Dev dos Magros]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsby-starter-blog-demo.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 03 Sep 2020 12:58:55 GMT</lastBuildDate><item><title><![CDATA[A Lealdade dos Fracos]]></title><description><![CDATA[Teste. Tá foda. I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a great quote from this Wikipedia on  salted…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/hello-world copy/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/hello-world copy/</guid><pubDate>Fri, 19 Jun 2020 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Teste. Tá foda.&lt;/p&gt;
 &lt;p&gt;I’m sure I’ll write a lot more interesting things in the future.&lt;/p&gt;
 &lt;p&gt;Oh, and here’s a great quote from this Wikipedia on &lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot; target=&quot;_blank&quot;&gt; salted duck eggs&lt;/a&gt;.&lt;/p&gt;
 &lt;!-- [salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg). --&gt;
@@ -13,7 +13,7 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 620px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -24,20 +24,20 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 42.567567567567565%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwABAv/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABxunCkrn/xAAZEAADAQEBAAAAAAAAAAAAAAAAAQIRA0P/2gAIAQEAAQUC6VRWKEtXsI//xAAWEQADAAAAAAAAAAAAAAAAAAAAARL/2gAIAQMBAT8BlEI//8QAFxEAAwEAAAAAAAAAAAAAAAAAAAESE//aAAgBAgEBPwGmaM//xAAZEAADAAMAAAAAAAAAAAAAAAAAARECIDH/2gAIAQEABj8CWKXCwun/xAAcEAEAAgEFAAAAAAAAAAAAAAABABExIUFRYbH/2gAIAQEAAT8hRZCrvmJRT1BAJTrmPmbTCf/aAAwDAQACAAMAAAAQUD//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAwEBPxBSf//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAECAQE/EAI//8QAHBABAAMAAgMAAAAAAAAAAAAAAQARMSFBUWGR/9oACAEBAAE/EFUXI4PHuO3gEHF582U4KCqTSOkxn//Z&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 42.58064516129032%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwABAv/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABxunCkrn/xAAZEAADAQEBAAAAAAAAAAAAAAAAAQIRA0P/2gAIAQEAAQUC6VRWKEtXsI//xAAWEQADAAAAAAAAAAAAAAAAAAAAARL/2gAIAQMBAT8BlEI//8QAFxEAAwEAAAAAAAAAAAAAAAAAAAESE//aAAgBAgEBPwGmaM//xAAZEAADAAMAAAAAAAAAAAAAAAAAARECIDH/2gAIAQEABj8CWKXCwun/xAAcEAEAAgEFAAAAAAAAAAAAAAABABExIUFRYbH/2gAIAQEAAT8hRZCrvmJRT1BAJTrmPmbTCf/aAAwDAQACAAMAAAAQUD//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAwEBPxBSf//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAECAQE/EAI//8QAHBABAAMAAgMAAAAAAAAAAAAAAQARMSFBUWGR/9oACAEBAAE/EFUXI4PHuO3gEHF582U4KCqTSOkxn//Z&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Explorers&quot;
         title=&quot;Explorers&quot;
-        src=&quot;/blueskiy-blog/static/406a1e1ed523c53d27c2b26ed5583233/8a7c7/explorers.jpg&quot;
-        srcset=&quot;/blueskiy-blog/static/406a1e1ed523c53d27c2b26ed5583233/ca928/explorers.jpg 148w,
-/blueskiy-blog/static/406a1e1ed523c53d27c2b26ed5583233/278fa/explorers.jpg 295w,
-/blueskiy-blog/static/406a1e1ed523c53d27c2b26ed5583233/8a7c7/explorers.jpg 590w,
-/blueskiy-blog/static/406a1e1ed523c53d27c2b26ed5583233/b4485/explorers.jpg 885w,
-/blueskiy-blog/static/406a1e1ed523c53d27c2b26ed5583233/096b1/explorers.jpg 1180w,
+        src=&quot;/blueskiy-blog/static/406a1e1ed523c53d27c2b26ed5583233/e28f5/explorers.jpg&quot;
+        srcset=&quot;/blueskiy-blog/static/406a1e1ed523c53d27c2b26ed5583233/1184d/explorers.jpg 155w,
+/blueskiy-blog/static/406a1e1ed523c53d27c2b26ed5583233/60f7a/explorers.jpg 310w,
+/blueskiy-blog/static/406a1e1ed523c53d27c2b26ed5583233/e28f5/explorers.jpg 620w,
+/blueskiy-blog/static/406a1e1ed523c53d27c2b26ed5583233/70f35/explorers.jpg 930w,
+/blueskiy-blog/static/406a1e1ed523c53d27c2b26ed5583233/c9a5c/explorers.jpg 1240w,
 /blueskiy-blog/static/406a1e1ed523c53d27c2b26ed5583233/f1e98/explorers.jpg 2521w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        sizes=&quot;(max-width: 620px) 100vw, 620px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
